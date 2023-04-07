@@ -1,0 +1,3 @@
+C:/Users/gmuss/OneDrive/Documents/UFJF/Disciplinas/Template C++/build/CMakeFiles/C++.dir
+C:/Users/gmuss/OneDrive/Documents/UFJF/Disciplinas/Template C++/build/CMakeFiles/edit_cache.dir
+C:/Users/gmuss/OneDrive/Documents/UFJF/Disciplinas/Template C++/build/CMakeFiles/rebuild_cache.dir

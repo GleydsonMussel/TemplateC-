@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/gmuss/OneDrive/Documents/UFJF/Disciplinas/Template C++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/gmuss/OneDrive/Documents/UFJF/Disciplinas/Template C++/include\" -g -std=c++23 -pedantic-errors -Wall -Weffc++ -Wextra -Wsign-conversion -Wconversion -o CMakeFiles\\C++.dir\\src\\main.cpp.obj -c \"C:\\Users\\gmuss\\OneDrive\\Documents\\UFJF\\Disciplinas\\Template C++\\src\\main.cpp\"",
+  "file": "C:\\Users\\gmuss\\OneDrive\\Documents\\UFJF\\Disciplinas\\Template C++\\src\\main.cpp",
+  "output": "CMakeFiles\\C++.dir\\src\\main.cpp.obj"
+}
+]
